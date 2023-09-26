@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+#suno bhai log
+- iss repositary ko kisi ko share mat karna
+- aur ispe apna apna kam kar ke update karte rehna
+- me pull karte jauga
+  
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
