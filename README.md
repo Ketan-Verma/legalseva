@@ -1,4 +1,4 @@
-#suno bhai log
+# suno bhai log
 - iss repositary ko kisi ko share mat karna
 - aur ispe apna apna kam kar ke update karte rehna
 - me pull karte jauga
